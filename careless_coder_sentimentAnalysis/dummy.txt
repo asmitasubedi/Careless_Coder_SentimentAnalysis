@@ -1,0 +1,243 @@
+news,sentiment
+this is bad news. I killed ruby.,0 
+this is asmita subedi. she is ready to get married.She is happy,1
+we will feel bad,0
+he is nice boy,1
+they are playing music,1
+he is bad boy. he smokes a lot,0
+she is ugly,0
+he will fulfill his duty,1
+Refugees encounter a foreign word Welcome,1
+Bahrain gearing up to ensure air quality,1
+Finland Tougher Tobacco Act enters into force in August,1
+How Green Technologies will shape the face of Costa Rica,1
+Actor De Niro touts Catskills with NY Governor Cuomo,1
+Vermont Senator Sanders says he'll try to block Senate GMO bill,1
+Bright spot Antarctica's ozone hole is starting to heal,1
+Uruguay's blind 'bird man' can identify bird sounds,1
+US First Lady urges Spanish women to promote girls' learning,1
+Education ministry recognizes languages from Peru's Amazon,1
+New buoy listens for singing whales,1
+Classes inspired by ancient arts offer moral teachings,1
+She denied my offer.,0
+He was arrested by the police.,0
+She committed suicide.,0
+He was attacked by the mafias.,0
+He was rejected by the teacher. He was depressed.,0
+Ram tried to rape Meena.,0
+he pleaded guilty to assaulting a police officer.,0
+the place smelled awful.,0
+he was swept to his death by an avalanche in 1988.,0
+his opponent had been guilty of bribery and corruption.,0
+the journalist who wants to expose corruption in high places.,0
+Their house was a casualty of the fire.,0
+she had been careless and had left the window unlocked.,0
+snow caused chaos in the region.,0
+she cheated death in a spectacular crash.,0
+the school suffers from chronic overcrowding.,0
+they bought some cheap fruit.,0
+there seems to be some confusion about which system does what.,0
+shoplifting was a serious crime.,0
+it often seemed as if the family had been cursed.,0
+his life was in danger.,0
+
+their happiness made Anne feel even more miserable,0
+she is seeking damages on allegations of misrepresentation,0
+a warning to men harassing women at work,0
+it's fine as long as no one is inflicting harm on anyone else,0
+the hazards of smoking,0
+his situation was obviously hopeless,0
+they were horrified by the very idea,0
+ou'll humiliate me in front of the whole school,0
+he was told constantly that he was ignorant and stupid,0
+many of the fish caught are immature,0
+bullets cast from an impure lead,0
+an inactive lifestyle,0
+the inequality of the ground hindered their footing,0
+he inhuman scale of the dinosaurs,0
+his mouth curved into an ironic smile,0
+the case was dismissed for lack of evidence,0
+her father was killed in a car crash,0
+sort out what could be sold off and junk the rest,0
+the condition that some noob crys about because he connected to a server half way around the world,0
+his horse went lame,0
+it was a lame statement and there was no excusing his behavior,0
+he action of misbehaving; bad behaviour.,0
+he had denied all sexual misbehaviour.,0
+social causes of crime and delinquency,0
+he relayed this in such a manner as to imply grave delinquency on the host's part,0
+her ankle was very painful,0
+he killed himself with poison,0
+the increasingly pugnacious demeanour of right-wing politicians,0
+he was deviled by a new-found fear,0
+he sounded regretful but pointed out that he had committed himself,0
+his letter plunged her into abject misery,0
+a bribery scandal involving one of his key supporters,0
+
+New cameras keep electronic eye on Western wildfires,1
+First Lady promotes learning to empower Moroccan girls,1
+Huge helium gas field found in Tanzania said 'game changer',1
+Michelle Obama daughters in Africa to push girls' education,1
+'Sweet business' of beekeeping helps protect Zimbabwe's forests,1
+Israeli Turkish leaders look to gain from reconciliation,1
+Cambodia says tests confirm Angkor boat 8 centuries old,1
+South Africa offers reward for helping keep the environment clean,1
+Turkish President apologizes for downing of Russian jet,1
+Israel and Turkey agree to normalize ties senior Israeli official,1
+Israeli official Reconciliation deal reached with Turkey,1
+PTSD non-profit promotes Transcendental Meditation for relief,1
+Nature finds a way,1
+The solution to stress in the workplace,1
+Minister Pokharel instructed Bishwa Prakash Pandit Secretary of the Ministry of Education for the investigation after inspecting the incident site and taking stock of the injured children at B&B Hospital and Patan Hospital this evening,1
+Two students died on the spot while 26 sustained injuries when a wall nearby the school was breached. The health condition of the injured ones is reported to be critical,0
+Minister Pokharel extended condolences to the deceased students and wished for the speedy recovery of the injured ones according to Jagrit Rayamajhi Personal Secretary to the Minister,1
+Nepal Oil Corporation (NOC) on Friday slashed the price of aviation fuel sold to international and domestic carriers in line with the directives of the Parliamentary International Relations and Labour Committee,1
+The driver of a Tesla car died in Florida in May after colliding with a lorry.Under scrutiny is Tesla's Autopilot feature which automatically changes lanes and reacts to traffic.In a statement Tesla said it appeared the Model S car was unable to recognise the white side of the tractor trailer against a brightly lit sky that had driven across the car's path.The company said the crash this year was a tragic loss.The collision led to the death of Tesla driver Joshua Brown 40. The driver of the truck which was pulling a trailer was unhurt.Autonomous reputationOn Thursday Tesla stressed that cars being controlled by Autopilot had travelled 130 million safe miles to date.The company said in a statement The high ride height of the trailer combined with its positioning across the road and the extremely rare circumstances of the impact caused the Model S to pass under the trailer with the bottom of the trailer impacting the windshield of the Model S.,0
+Jul 2 2016- In May a three-member team that included a police official a doctor and an educator visited Bihar India with a mission in mind. They carried with them a heap of certificates of doctors registered with the Nepal Medical Council (NMC) the government body tasked with regulating medical education and doctors in the country.In the 10 days they stayed in the North Indian state the team made their way to the office of the Bihar Intermediate Education Council (BIEC) to verify the certificates they had brought along. A team of officials from the BIEC supported the Nepali contingent often putting in 8-hour shifts verifying the certificates digitally when available or by manually sifting through stack of old binders. In the end the teams suspicions were confirmed ,0
+The play is based on my childhood memory of a friendship that had left an lasting mark on me of a friendship that endured. Or rather a friendship that lies lurking beneath the enmity said Lamichhane about the themes the play evokes.Starting July 1 the play will be on at Mandala every day (except for Mondays) till July 17.,1
+Jul 2 2016- A child has gone missing for three days from Bhaktapur.Ujyal Bhardhwaj 12 of Gaurishankar-5 Sarlahi has gone missing from Thursday police said.Bhardhwaj was living with his uncle Suniranjan in Bhaktapur and went missing from Naya Basti in Anantalingeshwor Municipality.Suniranjan appealed to inform police or contact on 9851169419 if the lost boy was found.,0
+Jul 2 2016- At least three people were buried to death and one went missing in floods and landslides triggered by incessant rainfall in Darchula and Sarlahi districts in the last 24 hours.Two persons were killed at Malikarjun and Sarmoli in Darchula after landslides triggered by rains since Thursday night buried their houses said police.They have been identified as Basanti Dhami 25 of Malikarjun-8 and Chandradev Pant 62 of Sarmoli-2. A woman has gone missing in Api Municipality. According to District Police Office three people who were injured in the landslides are undergoing treatment at Darchula District Hospital. Around a dozen houses have been destroyed by the landslides in Malikarjun Rithachaupata Dadakot Dattu and Hunainath VDCs in the district said police. ,0
+Leader Manandhar was receiving medical treatment at Norvic Hospital in Thapathali. He passed away at 1145 am today from heart attack SSFN Vice-chairman Rajendra Shrestha informed.  He was suffering from prostate cancer. Earlier Manandhar had received treatment for the ailment from Rajiv Gandhi Cancer Institute and Research Centre in India.Leader Manandhar had quit CPN-UML to join SSFN. He was Minister for Education and Sports during late Girija Prasad Koirala-led government.Manandhar is survived by a wife two sons and a daughter. Published 01-07-2016 1628,0
+Jul 2 2016- With the Commission for Investigation of Abuse of Authority and Dr Govinda KC at loggerheads over the doctors demand for impeachment of CIAA Chief Commissioner Lokman Singh Karki the Good Governance and Monitoring Committee of Parliament is set to summon both the parties for clarification.An informal meeting of the committee on Thursday decided to task its subcommittee with fixing the date for summoning both the parties. Responding to Dr KC's decision last week to launch his eighth hunger strike in two weeks if his demands related to cleaning up the medical education sector were not implemented the CIAA issued a statement calling Dr KC  lunatic who needs treatment. The orthopaedic surgeon has accused Karki of unduly interfering in the medical sector.A meeting of the subcommittee will on Thursday decide the date to summon them said Committee Chairman Mohan Singh Rathour. The committee would then write to Karki and top CIAA officials to attend the meeting. 0959,1
+The prime minister and opposition leader delivered their final pitches to voters on Friday after a marathon eight-week campaign.The UK's decision to leave the EU appears to have benefitted Prime Minister Malcolm Turnbull.But Labor Party leader Bill Shorten said he still intended to win.Mr Shorten is already answering questions about his leadership in the event of a loss with frontbencher Anthony Albanese reportedly keen to challenge.Nearly 15.5 million people are casting their ballots across Australia where voting is compulsory.During the campaign the government and Labor have sparred over the economy healthcare immigration and same-sex marriage.While the government is widely expected to retain power it is also expected to lose many seats and tight polls indicate a high chance of a hung parliament.,1
+Then there was the report that Kathmandu Municipality was to build yet another towering structure in the eastern side of Tundhikhel where a long distance bus terminal once was located. The move perhaps stemmed from the fact that the proposal to build a similar structure in the old Kathmandu Municipality site had gone into limbo. The latest media report says that the Nepal Airlines is to bring down its Tundhikhel-based head office building and erect a new structure in its place. ,1
+The cable will extend from Chiyo Bhanjyang in Panchthar district to Arughat in Gorkha district. NTA Chairman Digambar Jha and NT Managing Director Buddhi Prasad Acharya signed the deal on behalf of their respective organizations.The cost of the project is not mentioned in the memorandum.  will now call for global tenders and select the company and award the contract to lay the optical fibre cable said Min Prasad Aryal spokesperson for the NTA. ,1
+Jul 2 2016- Title contenders Germany will come face to face with their ultimate tournament nightmare when they take on Italy in their Euro 2016 quarter-final in Bordeaux on Saturday.The world champions have lost every single tournament knockout game to the Italians going back almost half a century but are confident they can end a streak that includes one World Cup final and two semi-finals and the Euro 2012 last four.After topping Group C with two wins and a draw they quickly disposed of Slovakia 3-0 in the round of 16 with an impressive performance in which their frontline burst into life after three below-par performances.,1
+Jul 1 2016- The continuous rainfall since Friday morning has largely affected daily life in Kathmandu. The streets have been water-logged in various places due to the downpour.Kathmandu sees a substantial increase in Traffic jams when it rains.,0
+Jul 2 2016- Cricket Association of Nepal (CAN) Chief Executive Officer (CEO) Bhawana Ghimire on Friday said she has tendered her resignation to the suspended ad-hoc committee of the cricket governing body.Ghimire informed about her resignation through her official twitter account on the day when the International Cricket Council (ICC) said it was soon sending a delegation to Nepal to address the ongoing deadlock in country cricket governing body. ,0
+Jul 2 2016- Bangladesh's government says 20 hostages were killed by suspected Islamists in a siege in cafe in the capital Dhaka.Gunmen stormed the Holey Artisan Bakery cafe late on Friday before troops entered almost 12 hours later.Six of the attackers were killed and one was arrested a government spokesman said. The attack was claimed by the so-called Islamic State (IS). Some of those who were held were from Japan and Sri Lanka.,0
+Jul 2 2016- Wales produced a stunning upset to reach the Euro 2016 semi-finals after Hal Robson-Kanu's superbly fashioned goal and Sam Vokes's late header secured a 3-1 comeback win over Belgium on Friday to set up a clash with Portugal.Robson-Kanu left three Belgium players for dead with a 'Cruyff' turn and calmly stroked the ball home to put Wales ahead in the second half while substitute Vokes's header ensured they reached their first major tournament semi-final.,0
+This week she received her ninth artificial leg thanks to the Friends of the Asian Elephant Foundation hospital in northern Thailand.Mosha is one of more than a dozen elephants who have been wounded by land mines in the border region where rebels have been fighting the Myanmar government for decades. She was the first elephant to be fitted with a prosthetic limb at the hospital near Lampang.Mosha weighed about 1300 pounds when she was wounded. ,1
+The arrested is principal of Thurpu-based Shining Star Lower Secondary School Ishwori Prasad Sapkota.Sapkota had thrashed Rachit Bista 8 of Taplegunj district a student of class 2 at tuition class on Tuesday for poor handwriting. Bista is a hostel student.The boy has blue marks at different parts of the body. Dil Maya Bista mother of the boy is now at Phidim for legal action against the Principal as well as treatment of the child.Police have arrested the Principal after Dil Maya filed petition against Sapkota at District Police Office Panchthar. RSS 1309,0
+ After the Electricity Tariff Fixation Commission (ETFC) hiked the rate by an average of 19 percent effective from mid-September a group of consumer rights activists have filed petitions at two Parliamentary committees demanding a reversal of the decision.The Forum for Protection of Consumer Rights on Friday filed separate petitions at the Agriculture and Water Resource Committee and Industry Commerce and Consumer Welfare Committee seeking their intervention against the tariff hike. ,0
+Jul 2 2016- Nepal has been placed in the second tier of the US Department of State annual Trafficking in Persons (TIP) report signifying Nepal satisfactory efforts to combat modern-day slavery.Nepal has been maintaining this status for the past seven years despite sporadic incidents of human trafficking and degrading treatment of workers particularly women and children.The TIP report which assesses the legal framework and law enforcement of the countries from around the world on their efforts to combat human trafficking has come as a relief for the government of Nepal given the national reports on human trafficking.,1
+Jul 1 2016- Parliamentarians have drawn the government's attention to the need of providing relief in a prompt manner as various places of the country have been affected by flood and landslide.Published 01-07-2016 1721,1
+Jul 2 2016- A mob has burned down a mosque in northern Myanmar in the second attack of its kind in just over a week.Police are reported to be guarding the village of Hpakant in Kachin state after failing to stop Buddhist villagers setting the mosque ablaze.Last week a group of men destroyed a mosque in central Myanmar in a dispute over its construction.The UN has warned the government led by Nobel Peace Prize Aung San Suu Kyi to crack down on religious violence.The latest attack took place on Friday when a group of villagers stormed the mosque and set it on fire.Reports said they attacked police officers guarding it and stopped the fire brigade from reaching the site.,1
+Besides a few established political figures the list includes former bureaucrats civil society members and celebrities. The youngest force also set up a central coordination panel with a 13-member office bearers team. The panel would remain until the party first general convention expected to take place next year. Naya Shakti coordinator Baburam Bhattarai on Thursday told reporters that the committee would be replaced by elected representatives after the convention. We have decided to elect representatives right from the village level to the top.  of these representatives will be allowed to hold a position for more than two terms  said Bhattarai,1
+Jul 2 2016- The International Cricket Council (ICC) said it will send its delegation to Nepal  in a due course  to find a way out for the current deadlock in country  cricket governing body.Nepali cricket has been running without a board after ICC suspended the Cricket Association of Nepal (CAN) on April 25. The world cricket governing body had suspended the CAN citing a dual existence of CAN caused primarily by a disputed election before an ad-hoc committee was formed in response by the National Sports Council.,0
+They were the group's deputy minister of war who oversaw Mosul's capture in 2014 and a senior military commander spokesman Peter Cook said.US-led air strikes have helped Iraqi forces and its allies to push IS back.An offensive to retake Mosul is seen as the next battle for Iraqi forces.Basim Muhammad Ahmad Sultan al-Bajari was a former al-Qaeda member who also led an IS battalion known for using homemade explosives suicide bombers and mustard gas in its attacks Mr Cook said in a statement.Hatim Talib al-Hamduni was a military commander in Mosul and the head of military police in the region he added.,0
+Jul 2 2016- The government has stepped up efforts to curb possible inflow of illicit money into the ever-growing stock market.The Ministry of Finance has initiated discussions on empowering the Securities Board of Nepal (Sebon) to investigate source of investor  funds by amending regulatory provisions and rules.  We are holding initial phase of discussions and are yet to decide on point-wise provisions to be amended. ,1
+Jul 2 2016- With the Commission for Investigation of Abuse of Authority and Dr Govinda KC at loggerheads over the doctor  demand for impeachment of CIAA Chief Commissioner Lokman Singh Karki the Good Governance and Monitoring Committee of Parliament is set to summon both the parties for clarification.An informal meeting of the committee on Thursday decided to task its subcommittee with fixing the date for summoning both the parties. Responding to Dr KC  decision last week to launch his eighth hunger strike in two weeks if his demands related to cleaning up the medical education sector were not implemented the CIAA issued a statement calling Dr KC  a lunatic who needs treatment . The orthopaedic surgeon has accused Karki of unduly interfering in the medical sector.A meeting of the subcommittee will on Thursday decide the date to summon them said Committee Chairman Mohan Singh Rathour. The committee would then write to Karki and top CIAA officials to attend the meeting. 09:59,1
+Oliver Park 51 ignored safety signs and warnings from wardens and went into a restricted area close to the edge of a cliff on Wednesday officials say.They say he tried to pose for a photograph of himself leaping as if in flight but lost his footing.Rescuers found the body on Thursday and took it to a local police station.Police said his body would be taken to a morgue in the city of Cusco.Published: 01-07-2016 14:00,0
+Jul 1 2016- Portugal reached the semi-finals of the European Championship for the fourth time in five tournaments with a penalty shootout victory over Poland.Ricardo Quaresma scored the winning spot-kick after Jakub Blaszczykowski's effort was saved by Rui Patricio.Robert Lewandowski had fired Poland ahead in the second minute with teenager Renato Sanches equalising via a deflected strike.,1
+Jul 2 2016- Bangladesh's government says 20 hostages were killed by suspected Islamists in a siege in cafe in the capital Dhaka.Gunmen stormed the Holey Artisan Bakery cafe late on Friday before troops entered almost 12 hours later.Six of the attackers were killed and one was arrested a government spokesman said. The attack was claimed by the so-called Islamic State (IS).  Some of those who were held were from Japan and Sri Lanka.,0
+Jul 2 2016- Nepal Oil Corporation (NOC) on Friday slashed the price of aviation fuel sold to international and domestic carriers in line with the directives of the Parliamentary International Relations and Labour Committee.Jet fuel sold to international carriers has been cut by $100 per kl to $881 per kl. The fuel sold to domestic carriers has been reduced by Rs10 per litre to Rs99 per litre. The new rates will come into effect from Friday midnight. The prices have been reduced in line with the directives issued by the House Committee  said NOC Spokesperson Mukunda Ghimire. ,1
+However business activities were closed on the 16th day. Chinese officials said the border was sealed on their side from 5pm on Thursday. As per an agreement between Nepal and China the border point was opened on June 15 for 25 days the Chinese authorities used to open the point only for a week in the past. Chief District Officer Ganesh Bahadur Adhikari said the trade fair ended very soon due to transportation problems. ,1
+Jul 2 2016- Nepal has been placed in the second tier of the US Department of State  annual Trafficking in Persons (TIP) report signifying Nepal  satisfactory efforts to combat modern-day slavery.Nepal has been maintaining this status for the past seven years despite sporadic incidents of human trafficking and degrading treatment of workers particularly women and children.The TIP report which assesses the legal framework and law enforcement of the countries from around the world on their efforts to combat human trafficking has come as a relief for the government of Nepal given the national reports on human trafficking.,0
+United are expected to release an official statement in the coming days.Giggs 42 had a year remaining on his contract as assistant manager but new boss Jose Mourinho intends to fill that role with long-time friend Rui Faria.Unable to reach agreement over another role at the Premier League club Giggs who made a record 963 appearances for United has decided to move on.,1
+The scientists said that in September 2015 the hole was around 4 million sq km smaller than it was in the year 2000 - an area roughly the size of India.The gains have been credited to the long term phasing out of ozone-destroying chemicals.The study also sheds new light on the role of volcanoes in making the problem worse.Skin cancer worryBritish scientists first noticed a dramatic thinning of ozone in the stratosphere some 10 kilometres above Antarctica in the mid 1980s.,1
+The CIAA too was no less harsh in issuing a knee-jerk reaction against Dr KC  demands accusing him of  cheap popularity growing anarchy and above all a biased and pitiful mindset against the chief commissioner and the commissioners . The CIAA press release further accuses him of  proximity to medical mafia self-declared social activists organised criminals and corrupt people. ,0
+Jul 2 2016- A child has gone missing for three days from Bhaktapur.Ujyal Bhardhwaj 12 of Gaurishankar-5 Sarlahi has gone missing from Thursday police said.Bhardhwaj was living with his uncle Suniranjan in Bhaktapur and went missing from Naya Basti in Anantalingeshwor Municipality.Suniranjan appealed to inform police or contact on 9851169419 if the lost boy was found. 20:22,0
+Jul 2 2016- A mob has burned down a mosque in northern Myanmar in the second attack of its kind in just over a week.Police are reported to be guarding the village of Hpakant in Kachin state after failing to stop Buddhist villagers setting the mosque ablaze.Last week a group of men destroyed a mosque in central Myanmar in a dispute over its construction.,0
+Jul 2 2016- Lawmakers on Friday drew the government attention to the increasing cases of landslides affecting lives and settlements in the 11 districts that were most affected by the earthquake last year.Speaking in Parliament on Friday lawmakers from different parties said that many human settlements in the quake-hit districts are at high risk due to incessant rainfall for the last couple of days.,1
+Jul 1 2016- A day after YouTube removed Bollywood director Shirish Kunder  short film Kriti due to a copyright claim by Nepali filmmaker Aneel Neupane the video sharing site has now removed Neupane  BOB after a counter copyright claim by Abhayan and Singh (INDIE MUVIZ PTE LTD).With the removal of both the videos The BOB-Kriti saga which has hogged headlines this week is nearing a melting point with both directors refusing to back downfrom their claims regarding their  authentic  creation.The controversy began when Neupane published a statement on Facebook in which he stated that Kunder who is married to Bollywood director Farah Khan  practically stole the plot  of his film BOB for his short Kriti.,0
+Jul 2 2016- Tomoko Nishimoto assistant director-general and regional director for Asia and the Pacific of International Labour Organisation (ILO) concluded her five-day visit to Kathmandu with a sense of praise and a great optimism for Nepal and its people on Friday.During her visit Nishimoto held meetings with Prime Minister KP Sharma Oli Deputy Prime Minister and Minister for Foreign Affairs Kamal Thapa Saarc Secretary General Arjun Bahadur Thapa Minister for Labour and Employment Deepak Bohara Vice-Chairperson of National Planning Commission Yuba Raj Khatiwada representatives of employer  and worker  organisations and the development partners.,1
+Jul 2 2016- The Sirsiya dry port in Birgunj is all set to go online with the Automated System for Customs Data (Asycuda World) from July 16 a new web-based customs management system that supports paperless cargo submission and processing through the use of electronic documents.The new system an upgraded version of Asycuda++ currently being operated at the inland container depot is expected to speed up cargo clearance besides promoting transparency at customs.  Unlike previous versions Asycuda World does not require a client to install software and can be accessed wherever there is an internet connection. ,1
+Jul 2 2016- In May a three-member team that included a police official a doctor and an educator visited Bihar India with a mission in mind. They carried with them a heap of certificates of doctors registered with the Nepal Medical Council (NMC) the government body tasked with regulating medical education and doctors in the country.In the 10 days they stayed in the North Indian state the team made their way to the office of the Bihar Intermediate Education Council (BIEC) to verify the certificates they had brought along. A team of officials from the BIEC supported the Nepali contingent often putting in 8-hour shifts verifying the certificates digitally when available or by manually sifting through stack of old binders. In the end the team  suspicions were confirmed: ,1
+
+
+news,sentiment
+She denied my offer,0
+He was arrested by the police,0
+She committed suicide,0
+He was attacked by the mafias,0
+He was rejected by the teacher. He was depressed,0
+Ram tried to rape Meena,0
+he pleaded guilty to assaulting a police officer,0
+the place smelled awful,0
+he was swept to his death by an avalanche in 1988,0
+his opponent had been guilty of bribery and corruption,0
+the journalist who wants to expose corruption in high places,0
+Their house was a casualty of the fire,0
+she had been careless and had left the window unlocked,0
+snow caused chaos in the region,0
+she cheated death in a spectacular crash,0
+the school suffers from chronic overcrowding,0
+they bought some cheap fruit,0
+there seems to be some confusion about which system does what,0
+shoplifting was a serious crime,0
+it often seemed as if the family had been curse,0
+his life was in danger,0
+they are fearful of the threat of nuclear war,0
+there's been a dreadful accident,0
+the horror and futility of war,0
+gangsters threatened to kill him if he did not cooperate in the theft,0
+a conspiracy to destroy the government,0
+the eternal conflict between the sexes,0
+I conned him into giving me your home number,0
+a conspiracy to destroy the government,0
+the car was badly damaged in the accident,0
+even in death, she was beautiful,0
+I didn't intend to deceive people into thinking it was French champagne,0
+the birth rate continued to decline	0
+she thought that many supposedly erotic pictures degraded wom,0
+I looked forward keenly to demolishing my opponent,0
+the room had been destroyed by fire,0
+159 people died in the disaster,0
+he was not distressed by the death of a man he had always disliked,0
+I am disturbed by the document I have just read,0
+some doubt has been cast upon the authenticity of this account,0
+the hassle of child care,0
+oh heck, I can't for the life of me remember,0
+they were horrified by the very idea,0
+the story tells of respectable Ben who turns out to be a cheat and a hypocrite,0
+ill-mannered and unruly children,0
+Elimination is the process of getting rid of something,0
+an embarrassing muddle,0
+the enemy shot down four helicopters	0
+he money had been paid in error	0
+500 companies sprang up to exploit this new technology	0
+he failed in his attempt to secure election	0
+my worst fault is impatience	0
+drivers are threatening to quit their jobs in fear after a cabby's murder	0
+plates with flaws in them were sold at the outlet stor	0
+it was foolish of you to enter into correspondence	0
+he screamed some incoherent threat,0
+the earth wire was left unconnected,0
+the sum required was insignificant compared with military spending,0
+a policy of involuntary repatriation	0
+it can be very frustrating to find that the size you want isn't there,0
+A glitch is a short-lived fault in a system,0
+Neither would ever question nor gossip about their bosses,0
+ feel fat, gross—even my legs feel flabby,0
+the police will soon discover who the guilty party is,0
+they hacked into a bank's computer,0
+She half-heartedly tried to twist around him to get away,0
+16 per cent of children experience serious maltreatment at the hands of their parents,0
+he team suddenly came good after years of mediocrity,0
+their happiness made Anne feel even more miserable,0
+she is seeking damages on allegations of misrepresentation,0
+a warning to men harassing women at work,0
+it's fine as long as no one is inflicting harm on anyone else,0
+the hazards of smoking,0
+his situation was obviously hopeless,0
+they were horrified by the very idea,0
+ou'll humiliate me in front of the whole school,0
+he was told constantly that he was ignorant and stupid,0
+many of the fish caught are immature,0
+bullets cast from an impure lead,0
+an inactive lifestyle,0
+the inequality of the ground hindered their footing,0
+he inhuman scale of the dinosaurs,0
+his mouth curved into an ironic smile,0
+the case was dismissed for lack of evidence,0
+her father was killed in a car crash,0
+sort out what could be sold off and junk the rest,0
+the condition that some noob crys about because he connected to a server half way around the world,0
+his horse went lame,0
+it was a lame statement and there was no excusing his behavior,0
+he action of misbehaving; bad behaviour,0
+he had denied all sexual misbehaviour,0
+social causes of crime and delinquency,0
+he relayed this in such a manner as to imply grave delinquency on the host's part,0
+her ankle was very painful,0
+he killed himself with poison,0
+the increasingly pugnacious demeanour of right-wing politicians,0
+he was deviled by a new-found fear,0
+he sounded regretful but pointed out that he had committed himself,0
+his letter plunged her into abject misery,0
+a bribery scandal involving one of his key supporters,0
+
+
+
+
